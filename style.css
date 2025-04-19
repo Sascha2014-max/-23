@@ -81,3 +81,9 @@ h5 {
 font-size: 35px;
 background-color: gray;
 }
+
+img {
+cursor: pointer;
+ max-width: 1000px; 
+ margin: 10px;
+ }
